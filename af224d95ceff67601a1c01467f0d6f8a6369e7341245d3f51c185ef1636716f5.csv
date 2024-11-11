@@ -1,0 +1,12 @@
+Transaction Time (CET),Transaction Category,Transaction Type,Asset Id,Asset Name,Asset Currency,Transaction Currency,Currency Pair,Exchange Rate,Transaction Amount,Trade Amount,Trade Price,Trade Quantity,Cash Balance Amount,Profit And Loss Amount,Profit And Loss Currency
+2021-08-19 15:44:08.721000,withdrawals,Sepa Withdrawal,,,,EUR,,,-5.29,,,,0.0,,
+2021-08-19 17:06:10.517000,withdrawals,Sepa Withdrawal,,,,EUR,,,-2658.6,,,,0.0,,
+2021-11-17 11:59:51.769000,withdrawals,Sepa Withdrawal,,,,EUR,,,-4.0,,,,0.01,,
+2021-11-17 17:21:22.241000,withdrawals,Sepa Withdrawal,,,,EUR,,,-2624.0,,,,0.17,,
+2022-08-29 15:55:41.278000,withdrawals,Sepa Withdrawal,,,,EUR,,,-400.0,,,,1.02,,
+2023-09-14 19:13:12.116000,withdrawals,Sepa Withdrawal,,,,EUR,,,-1330.0,,,,0.17,,
+2023-09-14 19:40:43.036000,withdrawals,Sepa Withdrawal,,,,EUR,,,-1655.0,,,,0.62,,
+2024-04-08 17:01:43.628000,withdrawals,Sepa Withdrawal,,,,EUR,,,-200.0,,,,2.23,,
+2024-04-08 17:09:32.762000,withdrawals,Sepa Withdrawal,,,,EUR,,,-114.0,,,,0.85,,
+2024-10-09 21:01:04.855000,withdrawals,Sepa Withdrawal,,,,EUR,,,-793.0,,,,0.98,,
+2024-10-11 20:01:42.747000,withdrawals,Sepa Withdrawal,,,,EUR,,,-426.0,,,,0.42,,
